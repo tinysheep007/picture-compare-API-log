@@ -1,5 +1,8 @@
 # picture-compare-API-log
 
+#new potentail ones to look at
+-https://www.npmjs.com/package/pixelmatch
+
 ### Notes on exploring APIs that involved comparing photos
 ## How to run the tested files
 
